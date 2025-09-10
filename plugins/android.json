@@ -1,0 +1,32 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-http": {
+      "ANDROIDX_WEBKIT_VERSION": "1.4.0",
+      "PACKAGE_NAME": "com.fdgfdgdfgsdg.gfhfdhgdf"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "com.fdgfdgdfgsdg.gfhfdhgdf"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.fdgfdgdfgsdg.gfhfdhgdf"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.fdgfdgdfgsdg.gfhfdhgdf"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.fdgfdgdfgsdg.gfhfdhgdf"
+    },
+    "cordova-plugin-file": {
+      "ANDROIDX_WEBKIT_VERSION": "1.4.0",
+      "PACKAGE_NAME": "com.fdgfdgdfgsdg.gfhfdhgdf"
+    }
+  },
+  "dependent_plugins": {}
+}
